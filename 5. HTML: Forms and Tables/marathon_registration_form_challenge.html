@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Marathon Registration Form</title>
+    </head>
+    <body>
+        <h1>Race Registration</h1>
+        <form action="">
+            <div>
+                <label for="first_name">First Name</label>
+                <input type="text" id="first_name" name="first_name"
+                    placeholder="first name" required>
+                <label for="last_name">Last Name</label>
+                <input type="text" id="last_name" name="last_name"
+                    placeholder="last name" required>
+            </div>
+            <p>Select a Race: </p>
+            <div>
+                <input type="radio" name="choice" id="choice1" value="5k"
+                    required>
+                <label for="choice1">Fun Run 5K</label>
+            </div>
+            <div>
+                <input type="radio" name="choice" id="choice2" value="half">
+                <label for="choice2">Half Marathon</label>
+            </div>
+            <div>
+                <input type="radio" name="choice" id="choice3" value="full">
+                <label for="choice3">Full Marathon</label>
+            </div>
+            <div>
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="email">
+                <label for="pass">Password</label>
+                <input type="password" id="pass" placeholder="email" required>
+            </div>
+            <div>
+                <label for="age_group">Select Age Group</label>
+                <select name="age_group" id="age_group" required>
+                    <option value="under_18">Under 18</option>
+                    <option value="option2">Option 2</option>
+                    <option value="option3">Option 3</option>
+                    <option value="option4">Option 4</option>
+                    <option value="option5">Option 5</option>
+                </select>
+            </div>
+            <button>Submit</button>
+        </form>
+    </body>
+</html>
