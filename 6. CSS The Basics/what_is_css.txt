@@ -1,0 +1,21 @@
+Intro to CSS
+
+What is CSS?
+
+Cascasing Style Sheet
+- Langage for describing how documents are presented visually - arranged or styled
+
+CSS Rules
+selector {
+    property: value;
+}
+
+img {
+    width: 100px;
+    height: 200px;
+}
+
+-----
+
+CSS Is Huge. Don't Panic!
+
