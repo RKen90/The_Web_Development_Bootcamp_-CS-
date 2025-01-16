@@ -1,0 +1,21 @@
+body {
+  background-color: moccasin;
+}
+
+#Test {
+  font-size: larger;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: olive;
+}
+
+#cold {
+  color: pink;
+}
+
+#button {
+  background-color: yellow;
+  font-weight: bold;
+  font-family: cursive;
+  color: black;
+}

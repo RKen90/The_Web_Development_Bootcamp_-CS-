@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+}
+
+p {
+  color: aliceblue;
+}
+
+h1,
+h2 {
+  color: magenta;
+}
