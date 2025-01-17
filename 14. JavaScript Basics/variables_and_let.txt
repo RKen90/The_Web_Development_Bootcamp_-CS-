@@ -1,0 +1,8 @@
+JavaScript Variables
+
+Like Labels for Values
+
+Syntax
+let someName = someValue;
+let numVotes = 72;
+let year = 1990;
