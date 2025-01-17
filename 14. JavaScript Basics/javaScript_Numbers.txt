@@ -1,0 +1,16 @@
+JavaScript Numbers
+
+Numbers
+- JS has one number type
+- Positive and Negative numbers 
+- Whole numbers (integers)
+- Decimal numbers (float)
+
+
+Math Operators
+Addition +
+Subtraction -
+Divide /
+Multiply *
+Modulo (remainder operator) % 
+Exponent ** 

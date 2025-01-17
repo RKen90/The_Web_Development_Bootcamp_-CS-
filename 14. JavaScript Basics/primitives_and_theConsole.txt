@@ -1,0 +1,8 @@
+Primitives and the Console
+
+JavaScript Primitive Types
+- Number
+- String
+- Boolean
+- Null
+- Undefined

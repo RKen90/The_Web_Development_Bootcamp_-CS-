@@ -1,0 +1,4 @@
+Not a Number
+
+0 / 0
+1 + NaN
