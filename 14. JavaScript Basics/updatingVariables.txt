@@ -1,0 +1,21 @@
+Updating Variables
+
+let score = 0;
+
+Updating the variable
+score = score + 5;
+or
+score += 5;
+
+Operands
+score -= 5;
+score *= 5;
+score /= 2;
+
+
+Increment and Decrement
+let numLives = 9
+
+numLives --;
+
+numLives ++;
