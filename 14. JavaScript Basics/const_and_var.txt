@@ -1,0 +1,17 @@
+Const and Var
+
+const
+Contant values are not allowed to be changed
+
+const luckyNum = 41;
+
+Used to store the value of things that do not change 
+const pi = 3.1415;
+const daysInWeek = 7;
+
+
+var 
+The old variable keyword
+Before let and const 
+
+var runDistance = 26.2;
