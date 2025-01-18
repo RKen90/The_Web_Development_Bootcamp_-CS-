@@ -1,0 +1,15 @@
+Booleans 
+
+True or False
+
+Yes or no Values
+
+let isLoggedIn = true;
+let isActiveGame = true;
+isActiveGame = false;
+
+
+In JavaScript variables can change type
+let numPuppies = 23;
+numPuppies = false;
+numPuppies = 100;
