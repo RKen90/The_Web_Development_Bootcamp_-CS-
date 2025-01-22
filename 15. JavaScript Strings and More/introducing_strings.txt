@@ -1,0 +1,9 @@
+Introducting Strings
+
+Strings
+- Textual Information
+- Strings of characters
+- wrapped in quotations marks
+- Another primative type
+
+let username = "Mr Brobert";
