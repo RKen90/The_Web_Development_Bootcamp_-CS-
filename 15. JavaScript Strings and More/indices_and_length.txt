@@ -1,0 +1,26 @@
+Strings and length
+
+Every letter in a string has a corresponding number/index to it
+
+Accssing indiviual letters in a string
+let animal = "Dumbo Octopus"
+animal[0] 
+D
+
+The number of characters in the string
+animal.length
+
+
+Concatinating Strings
+
+“lol” + “lol”
+
+“lolol”
+
+
+
+let firstName = “Robert”
+
+let lastName = “Kennard”
+
+firstName + lastName = “RobertKennard”
