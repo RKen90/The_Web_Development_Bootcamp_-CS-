@@ -1,0 +1,6 @@
+Null
+- Intentional absense of any value
+- Must be assigned
+
+Undefined
+- Variabgle that do not have an assigned value
