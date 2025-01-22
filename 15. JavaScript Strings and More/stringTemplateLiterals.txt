@@ -1,0 +1,10 @@
+String Template Literals
+
+let price = 2.25;
+let qty = 5;
+
+Template literals allow us to embed expressions into a text 
+
+`Hello, ${1+2+9}`
+
+`You bought ${qty} Artichoke. Total is: ${price * qty}
