@@ -1,0 +1,13 @@
+String Methods
+
+Methods are built in actions we can perform
+- Like special moves
+
+e.g. 
+"Hello".length;
+
+"Hello".toUpperCase();
+
+Chaining Methods
+let greeting = "      hello again!!!"
+greeing.trim().toUpperCase()
